@@ -167,7 +167,7 @@ Through this project, the following skills were practiced:
 ---
 
 # Author
-prepared by :Ubaid Ullah
+Prepared by :Ubaid Ullah
 
 Prepared for:
 **DevelopersHub Corporation – AI/ML Engineering Internship**
